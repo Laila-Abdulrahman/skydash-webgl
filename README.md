@@ -100,9 +100,8 @@ During this project, I learned:
 2. Game physics  
 3. Character movement  
 4. Animation setup  
-5. Level design  
-6. UI menus & flow  
-7. WebGL builds & publishing  
+5. UI menus & flow  
+6. WebGL builds & publishing  
 
 I will continue improving the game with better visuals, more levels, and mobile-friendly controls.
 
