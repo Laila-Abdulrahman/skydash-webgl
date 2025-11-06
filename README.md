@@ -1,108 +1,112 @@
-✅ Polished Version (Copy/Paste This)
-📝 About the Game
+# 🌟 SkyDash — 3D Obstacle Runner Game
 
-SkyDash is a fast-paced 3D obstacle-runner and my first-ever game, created from scratch in Unity as part of the UNDP Game Development Bootcamp sponsored by the Abdulla Al Ghurair Foundation and delivered in partnership with HP.
-The game was built to practice real gameplay mechanics, physics, C# scripting, character animation, UI flow, and WebGL publishing — all while exploring creativity, design, and problem-solving.
+## 📝 About the Game
+**SkyDash** is a fast-paced 3D obstacle-runner and my first-ever game, fully created from scratch in Unity.  
+It was developed as the **capstone project** for the **UNDP Game Development Bootcamp**, sponsored by the **Abdulla Al Ghurair Foundation** and delivered in partnership with **HP**.
 
-🏁 Gameplay Overview
+This project helped me learn gameplay mechanics, C# scripting, physics, animation workflows, UI, and WebGL publishing — all while exploring creativity and problem-solving.
 
-SkyDash is a fast-paced 3D runner where your main mission is simple:
-✅ Reach the finish line without losing all your health.
+---
 
-To succeed, you must navigate the course while avoiding hazards and collecting helpful power coins. The challenge comes from balancing movement, timing, and health management as you react to obstacles in real time.
+## 🏁 Gameplay Overview
+SkyDash challenges you to **reach the finish line without losing all your health**.  
+You must avoid hazards and collect power coins that affect your movement, speed, and survivability.
 
-⚠️ Hazards
+Success requires quick reactions, timing, and careful health management.
 
-Rotating Sweepers — large spinning obstacles that hit you and reduce your health.
+---
 
-Black Coins — harmful coins that drain your health instantly (avoid them!).
+## ⚠️ Hazards
+These will stop you from reaching the goal:
 
-💎 Power Coins
+- **Rotating Sweepers** – spinning obstacles that hit you and reduce health  
+- **Black Coins** – harmful coins that drain health instantly  
 
-Green Coin: restores health
+---
 
-Red Coin: grants a double jump
+## 💎 Power Coins
+Each coin affects the player differently:
 
-Yellow Coin: provides a temporary speed boost
+- **Green Coin** → Restores health  
+- **Red Coin** → Grants a double jump  
+- **Yellow Coin** → Gives a temporary speed boost  
+- **Black Coin** → Reduces health (hazard)
 
-Black Coin: reduces health (hazard)
+---
 
-🎯 Objective
+## 🎯 Objective
+Avoid hazards, collect helpful coins, keep your health up, and reach the finish line safely.
 
-Avoid hazards, collect helpful coins, maintain your health, and reach the finish line safely.
+---
 
-🚀 Play the Game
+## 🚀 Play the Game
 
-✅ Play in your browser:
+### ✅ Browser Version  
 https://laila-abdulrahman.github.io/skydash-webgl/
 
-✅ Play on itch.io:
+### ✅ itch.io Version  
 https://laila-abdulrahman.itch.io/skydash
 
-🕹️ Controls
+---
 
-Move Left: ←
+## 🕹️ Controls
+- Move Left: **←**  
+- Move Right: **→**  
+- Jump: **Space**  
+- Start Game: **Mouse Click**
 
-Move Right: →
+---
 
-Jump: Space
+## ✨ Features
+- Bright, sky-themed environment  
+- Smooth character movement  
+- Fast-paced obstacle dodging  
+- Sound effects and animations  
+- WebGL browser support  
+- Mobile version coming soon  
 
-Start the game: Mouse Click
+---
 
-✨ Features
+## 🧰 Technologies Used
+- Unity  
+- C#  
+- Rider  
+- WebGL  
+- Netlify  
+- GitHub Pages  
+- itch.io  
 
-🌈 Bright, sky-themed environment
+---
 
-🏃 Smooth movement
+## 📂 Project Structure (WebGL Build)
 
-⚡ Fast-paced obstacle dodging
-
-🔊 Sound and animations
-
-🎮 WebGL browser version
-
-📱 Mobile version coming soon
-
-🧰 Technologies Used
-
-Unity
-
-Rider
-
-WebGL
-
-Netlify
-
-GitHub Pages
-
-itch.io
-
-📂 Project Structure (WebGL Build)
-
+```
 Build/
 TemplateData/
 index.html
 README.md
+```
 
-👩🏻‍💻 Developer Notes
+---
 
-SkyDash is my very first game, fully built and designed by Laila Abdulrahman.
-It was developed as the capstone project for the UNDP Game Development Bootcamp, sponsored by the Abdulla Al Ghurair Foundation in partnership with HP.
+## 👩🏻‍💻 Developer Notes
+SkyDash is my **first-ever game**, fully built and designed by **Laila Abdulrahman**.
 
-This project represents the start of my game-development journey. Through this project, I learned:
+Developed as the **capstone project** for the UNDP Game Development Bootcamp, sponsored by the Abdulla Al Ghurair Foundation in partnership with HP.
 
-C# scripting
+During this project, I learned:
 
-Basic game physics
+1. C# scripting  
+2. Game physics  
+3. Character movement  
+4. Animation setup  
+5. Level design  
+6. UI menus & flow  
+7. WebGL builds & publishing  
 
-Character movement
+I will continue improving the game with better visuals, more levels, and mobile-friendly controls.
 
-Animations
+---
 
-Level design
 
-UI and menus
 
-WebGL builds and publishing
-
-I will continue updating this game with improvements, more levels, better visuals, and mobile-friendly controls!
