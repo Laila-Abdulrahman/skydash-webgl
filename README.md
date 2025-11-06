@@ -56,6 +56,7 @@ index.html
 README.md
 
 👩🏻‍💻 Developer Notes
+
 SkyDash is my very first game, fully built and designed by Laila Abdulrahman.
 It was developed as the capstone project for the UNDP Game Development Bootcamp, sponsored by the Abdulla Al Ghurair Foundation in partnership with HP.
 This project represents the start of my game-development journey. I learned:
